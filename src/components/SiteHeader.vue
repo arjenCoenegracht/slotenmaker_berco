@@ -17,7 +17,7 @@ const closeMenu = () => {
 <template>
   <header class="site-header">
     <div class="container site-header__inner">
-      <a href="#top" class="site-header__brand" @click="closeMenu">Berco</a>
+      <a href="#top" class="site-header__brand" @click="closeMenu">Slotenmaker Berco</a>
 
       <button
         class="site-header__toggle"
