@@ -469,6 +469,11 @@ main {
   margin: 0 auto 1.2rem;
 }
 
+.contact-card .app-icon {
+  width: 1.9rem;
+  height: 1.9rem;
+}
+
 .contact-card__label {
   color: rgba(255, 255, 255, 0.72);
   font-weight: 700;
