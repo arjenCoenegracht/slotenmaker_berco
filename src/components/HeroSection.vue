@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import AppIcon from './AppIcon.vue'
-import type { Highlight } from '@/data/siteContent'
+import { companyInfo, type Highlight } from '@/data/siteContent'
 import heroImage from '@/assets/locksmith.jpg'
 
 defineProps<{
@@ -25,16 +25,19 @@ defineProps<{
           <span>Berco</span>
         </h1>
         <p class="hero__lead">
-          Sloten plaatsen, deuren openen & sleutels maken. Snel, vakkundig en altijd bereikbaar.
+          Van veiligheidscilinders en elektrische sloten tot camerabeveiliging en sleutelplannen:
+          ik zorg voor een totaaloplossing op maat van uw veiligheid.
         </p>
+        <p class="hero__sublead">{{ companyInfo.pricingLine }}</p>
+        <p class="hero__sublead">{{ companyInfo.availibilityLine }}</p>
 
         <div class="hero__actions">
-          <a href="tel:+31600000000" class="button button--primary button--large">
+          <a :href="companyInfo.phoneHref" class="button button--primary button--large phone-cta">
             <AppIcon name="phone" />
-            <span>Bel direct</span>
+            <span class="phone-cta__text">Bel direct</span>
           </a>
-          <a href="#diensten" class="button button--ghost button--large">
-            Bekijk diensten
+          <a href="#diensten" class="button button--ghost button--large hero__services-cta">
+            <span>Bekijk diensten</span>
           </a>
         </div>
 

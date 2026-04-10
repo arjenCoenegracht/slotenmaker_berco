@@ -11,8 +11,8 @@ defineProps<{
 <template>
   <section id="contact" class="contact-section">
     <div class="container">
-      <SectionIntro eyebrow="Neem contact op" title="Hulp nodig?" centered>
-        <p>Bel mij direct of stuur een bericht. Ik help u graag verder met snelle service en heldere afspraken.</p>
+      <SectionIntro eyebrow="Hulp nodig?" title="Neem contact op" centered>
+        <p>Bel mij direct of stuur een e-mail. Ik help u graag verder met snelle service en duidelijke afspraken.</p>
       </SectionIntro>
 
       <div class="contact-grid">

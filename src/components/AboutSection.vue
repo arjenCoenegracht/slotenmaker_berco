@@ -14,10 +14,10 @@ defineProps<{
       <div class="about-section__content">
         <SectionIntro eyebrow="Over mij" title="Vakmanschap & vertrouwen">
           <p>
-            Als zelfstandig slotenmaker bied ik persoonlijke service en eerlijk advies. U kunt rekenen op duidelijke communicatie, kwalitatief werk en een oplossing die past bij uw situatie.
+            Als zelfstandig slotenmaker bied ik persoonlijke service vanuit Heers, met aandacht voor degelijke plaatsingen en duidelijke afspraken.
           </p>
           <p>
-            Of het nu gaat om een noodgeval of een geplande klus: ik werk zorgvuldig, denk mee en zorg dat u zich weer veilig voelt in huis of zaak.
+            Of het nu gaat om een noodgeval of een geplande installatie: van veiligheidscilinders en beslag tot elektrische sloten en sleutelplannen, u krijgt een oplossing die praktisch en betrouwbaar is.
           </p>
         </SectionIntro>
 

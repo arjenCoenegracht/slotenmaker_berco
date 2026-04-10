@@ -13,7 +13,7 @@ defineProps<{
     <div class="container">
       <SectionIntro eyebrow="Wat ik doe" title="Mijn diensten" centered>
         <p>
-          Van geplande plaatsingen tot snelle hulp bij buitensluiting. Elke dienst is gericht op veiligheid, duidelijkheid en een nette afwerking.
+          Van noodopeningen tot veiligheidscilinders, camera&apos;s, elektrische sloten en sleutelplannen. Alles helder uitgelegd en netjes geplaatst.
         </p>
       </SectionIntro>
 

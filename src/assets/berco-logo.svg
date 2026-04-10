@@ -1,0 +1,28 @@
+<svg width="92" height="104" viewBox="0 0 92 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bercoGold" x1="10" y1="4" x2="82" y2="96" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8D05A"/>
+      <stop offset="1" stop-color="#E8A81D"/>
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M46 4C33 12 20 16.8 10 20.7V49.4C10 69.7 24.3 86.4 46 96C67.7 86.4 82 69.7 82 49.4V20.7C72 16.8 59 12 46 4Z"
+    fill="url(#bercoGold)"
+  />
+  <path
+    d="M46 11.5C35.8 17.5 25.6 21.5 18 24.4V47.5C18 63.1 29.2 76.2 46 84.3C62.8 76.2 74 63.1 74 47.5V24.4C66.4 21.5 56.2 17.5 46 11.5Z"
+    fill="#172A52"
+    fill-opacity="0.18"
+  />
+  <rect x="27" y="43" width="38" height="28" rx="8" fill="#12284E"/>
+  <path
+    d="M33.8 43.2V34.6C33.8 27.7 39.4 22.1 46.3 22.1C53.2 22.1 58.8 27.7 58.8 34.6V43.2"
+    stroke="#12284E"
+    stroke-width="6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <circle cx="46" cy="55" r="4.2" fill="#F8F4E6"/>
+  <path d="M46 59.1V67.2" stroke="#F8F4E6" stroke-width="4.2" stroke-linecap="round"/>
+</svg>
